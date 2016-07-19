@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rm -rf build/*",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "phantomSkeleton": "webpack && ./node_modules/.bin/phantomjs --cookies-file=cookies/cookies.txt phantomSkeleton.js"
+    "helloWorld": "webpack && ./node_modules/.bin/phantomjs --cookies-file=cookies/cookies.txt phantomSkeleton.js"
   },
   "repository": {
     "type": "git",
